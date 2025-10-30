@@ -9,8 +9,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
-</div>
+  ![](http://profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default) | 
 
 <div align="center">
   
