@@ -11,7 +11,7 @@
 <br><br>
 
 <div align="center">
-  |<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default&border_color=ffffff&hide_border=false" alt="General stats badge" height="150"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default&border_color=ffffff&hide_border=false" alt="General stats badge" height="150"/> 
   &nbsp;
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanchez&theme=default&border_color=ffffff&hide_border=false" alt="Top languages by repo badge" height="150"/> 
   &nbsp;
@@ -21,18 +21,18 @@
 <br>
 
 <div align="center">
-  | <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanchez&theme=default&repo=Sanchez&border_color=ffffff" alt="Sanchez pinned repo" height="200"/> |
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanchez&theme=default&repo=Sanchez&border_color=ffffff" alt="Sanchez pinned repo" height="200"/> |
   &nbsp;
-  | <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default&border=ffffff" alt="Sanchez streak badge" height="200"/> |
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default&border=ffffff" alt="Sanchez streak badge" height="200"/> |
 </div>
 
 </div>
 
 <div aling="center">
-  [Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=000000)]
-  [Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000)]
-  [Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=Discord&logoColor=000000)]
-  [Linkedin](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000)]
+  Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=000000)
+  Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000)
+  Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=Discord&logoColor=000000)
+  Linkedin](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000)
 
 <br><br>
 
