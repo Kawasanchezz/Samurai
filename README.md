@@ -29,8 +29,8 @@
 </div>
 
 <div aling="center">
-  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=gmail&logoColor=white&logoSize=gmail&color=black">
-  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=instagram&logoColor=white&logoSize=instagram&color=black">
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=Gmail&logoColor=white&logoSize=Gmail&color=black">
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=Instagram&logoColor=white&logoSize=Instagram&color=black">
   <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=Discord&logoColor=white&logoSize=Discord&color=black">
   <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=Linkedin&color=black">
 
