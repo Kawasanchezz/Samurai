@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ffffff&section=header&reversal=false"/>
 
-<div aling="center">
+<div aling="width"100%">
 <p>`プ ロ グ ラ マ`</p>
 </div>
 
