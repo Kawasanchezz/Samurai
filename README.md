@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ffffff&section=header&reversal=false"/>
 
-
 <br>
 <br>
 <br>
@@ -113,15 +112,5 @@
 <br>
 <br>
 <br>
-
-<div align="center">
-
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default" alt="General stats badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanchez&theme=default" alt="Top languages by commit badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanchez&theme=default&utcOffset=8" alt="Commits per day badge"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanchez&theme=default" alt="Profile details badge"/>
-
-</div>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ffffff&section=footer&reversal=false"/>
