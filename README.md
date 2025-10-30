@@ -1,8 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ffffff&section=header&reversal=false"/>
 
 <div align="center">
-  <h2>プ ロ グ ラ マ</h2>
+  <!-- Letras japonesas sem linha -->
+  <p style="font-size: 125px; font-weight: bold;">プ ロ グ ラ マ</p>
+  
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
 
 <br>
 
@@ -14,9 +18,9 @@
 
 <br>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanchez&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanchez&theme=default" style="height: 150px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default" style="height: 150px;" />
 </div>
 
 <br>
@@ -31,7 +35,7 @@
     <a href="#"><img alt="Discord" src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=black"></a>
     <a href="#"><img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=black"></a>
   </p>
-
+  
   <!-- Tecnologias -->
   <p>
     <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
@@ -52,12 +56,9 @@
 
 <br>
 
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/110/110940.gif" alt="GIF" width="250"/>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/ae1fbc1c-3a12-48a7-b40e-bf083aa26128" alt="Imagem" width="200"/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://giffiles.alphacoders.com/110/110940.gif" alt="Ladrão GIF" width="450"/>
+  <img src="https://i.gifer.com/2a0i.gif" alt="GIF 1" width="450"/>
 </div>
 
 <br>
