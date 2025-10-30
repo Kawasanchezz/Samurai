@@ -1,7 +1,7 @@
 <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fafafafa&textBg=false&fontColor=fafafafa&fontAlign=0&fontAlignY=0&stroke=eeeeee&strokeWidth=0&descAlign=0&animation=blink&descAlignY=0&section=header"
   alt="cabeçalho animado"
-  width="500%"
+  width="100%"
 />
 
 <br>
@@ -9,9 +9,6 @@
 <br>
 
 <div align="center">
- 
-<div align="center">
-  
   <b>`プ ロ グ ラ マ`</b>
   <samp>
       <br>
