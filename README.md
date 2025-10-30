@@ -9,6 +9,8 @@
 </div>
 <br>
 <br>
-<div align="center"
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanchez&theme=graywhite&show_icons=true&hide_border=true" alt="Sanchez trophies"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=graywhite" alt="Sanchez streak badge"/>
+  | :-: | | :-: | | :-: | 
   
 </div>
