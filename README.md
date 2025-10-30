@@ -29,11 +29,12 @@
 </div>
 
 <div aling="center">
-  Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=000000)
-  Instagram](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=000000)
-  Discord](https://img.shields.io/badge/Discord-ffffff?style=for-the-badge&logo=Discord&logoColor=000000)
-  Linkedin](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=000000)
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/Sanchez?style=for-the-badge&logo=gmail&logoColor=white&logoSize=gmail&color=black">
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/Sanchez?style=for-the-badge&logo=instagram&logoColor=white&logoSize=instagram&color=black">
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/Sanchez?style=for-the-badge&logo=Discord&logoColor=white&logoSize=Discord&color=black">
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/Sanchez?style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=Linkedin&color=black">
 
-<br><br>
+<br>
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ffffff&section=footer&reversal=false"/>
