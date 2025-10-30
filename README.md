@@ -29,10 +29,10 @@
 </div>
 
 <div align="center">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=black">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black">
 </div>
 
 <br>
