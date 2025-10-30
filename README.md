@@ -31,10 +31,10 @@
 <div align="center">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=black">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black">
-  <img alt="Reddit" src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=reddit&logoColor=black">
-  <img alt="Twitch" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=twitch&logoColor=black">
-  <img alt="Discord" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=discord&logoColor=black">
-  <img alt="Whatsapp" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=whatsapp&logoColor=black">
+  <img alt="Reddit" src="https://img.shields.io/badge/Reddit-white?style=for-the-badge&logo=reddit&logoColor=black">
+  <img alt="Twitch" src="https://img.shields.io/badge/Twitch-white?style=for-the-badge&logo=twitch&logoColor=black">
+  <img alt="Discord" src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=black">
+  <img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=black">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black">
 </div>
 
