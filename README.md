@@ -4,19 +4,26 @@
   <p>`プ ロ グ ラ マ`</p>
 </div>
 
-<div align="center" width="100%">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffffff&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-<div aling="center" width="100">
-<img></div>
+<br><br>
 
-<br>
-<br>
 <div align="center">
-| ![]<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default" alt="General stats badge"/> | ![]<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanchez&theme=default" alt="Top languages by repo badge"/> | ![]<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanchez&theme=default&utcOffset=8" alt="Commits per day badge"/> | ![]<img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanchez&theme=default&repo=Sanchez" alt="Sanchez trophies"/> | ![]<img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default" alt="Sanchez streak badge"/> 
-| :-: | :-: | :-: |
 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default" alt="General stats badge" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanchez&theme=default" alt="Top languages by repo badge" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanchez&theme=default&utcOffset=8" alt="Commits per day badge" height="150"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default" alt="Sanchez streak badge" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanchez&theme=default&repo=Sanchez" alt="Sanchez pinned repo" height="200"/>
 
 <div aling="center">
   <img>
