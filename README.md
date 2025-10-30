@@ -11,9 +11,9 @@
 <br><br>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default&border_color=ffffff&hide_border=false" alt="General stats badge" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanchez&theme=default&border_color=ffffff&hide_border=false" alt="Top languages by repo badge" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanchez&theme=default&utcOffset=8&border_color=ffffff&hide_border=false" alt="Commits per day badge" height="150" />
+ | ![]<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default&border_color=ffffff&hide_border=false" alt="General stats badge" height="150" /> | ![]<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanchez&theme=default&border_color=ffffff&hide_border=false" alt="Top languages by repo badge" height="150" /> |![]<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanchez&theme=default&utcOffset=8&border_color=ffffff&hide_border=false" alt="Commits per day badge" height="150" /> |
+| :-: | :-: | :-: |
+  
 </div>
 
 <br>
