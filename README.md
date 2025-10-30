@@ -10,11 +10,22 @@
 
 <br><br>
 
+
 <div align="center">
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default" alt="General stats badge" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanchez&theme=default" alt="Top languages by repo badge" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanchez&theme=default&utcOffset=8" alt="Commits per day badge" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default&border_color=ffffff" alt="General stats badge" height="150" style="border: 1px solid #ffffff; border-radius: 8px; margin: 5px;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sanchez&theme=default&border_color=ffffff" alt="Top languages by repo badge" height="150" style="border: 1px solid #ffffff; border-radius: 8px; margin: 5px;"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanchez&theme=default&utcOffset=8&border_color=ffffff" alt="Commits per day badge" height="150" style="border: 1px solid #ffffff; border-radius: 8px; margin: 5px;"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default&border=ffffff" alt="Sanchez streak badge" height="200" style="border: 1px solid #ffffff; border-radius: 8px; margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanchez&theme=default&repo=Sanchez&border_color=ffffff" alt="Sanchez pinned repo" height="200" style="border: 1px solid #ffffff; border-radius: 8px; margin: 10px;"/>
+
 
 </div>
 
