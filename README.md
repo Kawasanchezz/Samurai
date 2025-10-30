@@ -14,3 +14,4 @@
   | :-: | | :-: | | :-: | 
   
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ffffff&section=footer&reversal=false"/>
