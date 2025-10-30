@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanchez&theme=default&repo=Sanchez&border_color=ffffff" alt="Sanchez pinned repo" height="200"/> 
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&background=FFFFFF&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideNums=000000&border=0" alt="Sanchez streak badge" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchez&theme=white&ring=000000&fire=000000&currStreakLabel=000000&border=0" alt="Sanchez streak badge" height="200"/>
 </div>
 
 </div>
