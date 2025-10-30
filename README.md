@@ -21,18 +21,18 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanchez&theme=default&repo=Sanchez&border_color=ffffff" alt="Sanchez pinned repo" height="200"/> |
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sanchez&theme=default&repo=Sanchez&border_color=ffffff" alt="Sanchez pinned repo" height="200"/> 
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default&border=ffffff" alt="Sanchez streak badge" height="200"/> |
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default&border=ffffff" alt="Sanchez streak badge" height="200"/> 
 </div>
 
 </div>
 
 <div aling="center">
-  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/Sanchez?style=for-the-badge&logo=gmail&logoColor=white&logoSize=gmail&color=black">
-  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/Sanchez?style=for-the-badge&logo=instagram&logoColor=white&logoSize=instagram&color=black">
-  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/Sanchez?style=for-the-badge&logo=Discord&logoColor=white&logoSize=Discord&color=black">
-  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/followers/Sanchez?style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=Linkedin&color=black">
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=gmail&logoColor=white&logoSize=gmail&color=black">
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=instagram&logoColor=white&logoSize=instagram&color=black">
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=Discord&logoColor=white&logoSize=Discord&color=black">
+  <img alt="Bluesky followers" src="https://img.shields.io/bluesky/badge/Sanchez?style=for-the-badge&logo=Linkedin&logoColor=white&logoSize=Linkedin&color=black">
 
 <br>
 <br>
