@@ -9,8 +9,7 @@
 <br>
 
 <div align="center">
-  ![](http://profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default) | 
-
+ 
 <div align="center">
   
   <b>`プ ロ グ ラ マ`</b>
