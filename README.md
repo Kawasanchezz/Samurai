@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=color&fontAlign=50&fontColor=F2F0EF&stroke=F2F0EF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=color&fontAlign=50&fontColor=F2F0EF&stroke=F2F0EF&textBg=false&strokeWidth=50"/>
 
 <div aling="center">
 <p>`プ ロ グ ラ マ`</p>
@@ -10,7 +10,7 @@
 <br>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanchez&theme=graywhite&show_icons=true&hide_border=true" alt="Sanchez trophies"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=graywhite" alt="Sanchez streak badge"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sanchez&theme=default" alt="General stats badge"/>|<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sanchez&theme=default" alt="Top languages by commit badge"/>|<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sanchez&theme=default&utcOffset=8" alt="Commits per day badge"/>|<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanchez&theme=default" alt="Profile details badge"/>|
   | :-: | | :-: | | :-: | 
   
 </div>
