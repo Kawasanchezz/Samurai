@@ -116,3 +116,8 @@
 <br>
 <br>
 <br>
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fafafafa&textBg=false&fontColor=fafafafa&fontAlign=0&fontAlignY=0&stroke=eeeeee&strokeWidth=0&descAlign=0&animation=blink&descAlignY=0&section=footer"
+  alt="cabeçalho animado"
+  width="500%"
+/>
