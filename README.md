@@ -20,7 +20,6 @@
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanchez&theme=default" style="height: 150px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanchez&theme=default" style="height: 150px;" />
 </div>
 
 <br>
