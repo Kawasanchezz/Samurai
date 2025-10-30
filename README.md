@@ -1,4 +1,4 @@
-<img width="100%" src"https://capsule-render.vercel.app/api?type=waving&height=110&color=color"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=color"/>
 
 <div aling="center">
 <p>`プ ロ グ ラ マ`</p>
