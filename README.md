@@ -1,4 +1,4 @@
-<img align="center" height="150" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=color&textBg=false&fontColor=aaaaaa&fontAlign=100&fontAlignY=100&stroke=aaaaaa&strokeWidth=0&descAlign=100&animation=blink&descAlignY=100&section=header" />
+<img align="center" height="150" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=fafafafa&textBg=false&fontColor=fafafafa&fontAlign=0&fontAlignY=0&stroke=eeeeee&strokeWidth=0&descAlign=0&animation=blink&descAlignY=0&section=header" />
 
 <br>
 <br>
